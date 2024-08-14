@@ -105,7 +105,7 @@ services:
       - kafka3
   mysql:
     image: 'mysql:8.0.35'
-    container_name: mysql
+    container_name: mysql-kafka
     ports:
       - "3306:3306"
     environment:

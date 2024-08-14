@@ -33,5 +33,7 @@ out/
 /nbdist/
 /.nb-gradle/
 
+docker/.data/
+
 ### VS Code ###
 .vscode/
